@@ -136,5 +136,5 @@ The notebook produces two outputs after training:
 **Latent Space Interpolation**
 ![Interpolation](interpolation.png)
 **Generated Clothing Images (50 epochs)**
-![Generated Images](Generated_images.png)
+![Generated images](Generated_images.png)
 
