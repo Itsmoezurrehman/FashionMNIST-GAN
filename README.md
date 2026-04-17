@@ -133,10 +133,8 @@ The notebook produces two outputs after training:
 
 ## Results
 
-**Graph (Discriminator vs Generator)**
-![Graph]((Graph(discriminator vs generator).png)
 **Generated Clothing Images (50 epochs)**
-![Generated images](Generated_images.png)
+![Generated Images](Generated_images.png)
 **Latent Space Interpolation**
 ![Interpolation](interpolation.png)
 **Graph (Generator vs Discriminator)**
