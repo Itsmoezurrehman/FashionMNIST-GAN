@@ -128,3 +128,16 @@ The notebook produces two outputs after training:
 - PyTorch
 - torchvision
 - Kaggle Notebooks (GPU T4 x2)
+
+----------------------------------------------------------------------------------------------------------------------
+
+## Results
+
+**Graph (Discriminator vs Generator)**
+![Graph]((Graph(discriminator vs generator).png)
+**Generated Clothing Images (50 epochs)**
+![Generated images](Generated_images.png)
+**Latent Space Interpolation**
+![Interpolation](interpolation.png)
+**Graph (Generator vs Discriminator)**
+
