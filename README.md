@@ -98,7 +98,7 @@ The notebook produces two outputs after training:
 
 **1. Latent Space Interpolation** — a 2×5 grid showing smooth transitions between two randomly sampled clothing items in latent space.
 
-**2. Generated Image Grid** — a 10×10 grid of clothing images generated entirely by the trained generator from random noise.
+**2. Generated image Grid** — a 10×10 grid of clothing images generated entirely by the trained generator from random noise.
 
 ----------------------------------------------------------------------------------------------------------------------
 
